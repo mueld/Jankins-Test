@@ -10,5 +10,6 @@ namespace WebApplication1
 
         public string? Summary { get; set; }
         public bool ? Enabled { get; set; }
+        public string? EnabledDescription { get; set;}
     }
 }
